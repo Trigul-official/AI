@@ -7,6 +7,7 @@ import Team from './components/Team'
 import Contact from './components/Contact'
 import Footer from './components/Footer'
 
+
 export default function App() {
   return (
     <div style={{ backgroundColor: '#04080f', minHeight: '100vh' }}>
